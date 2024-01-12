@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/School_Work/20231/KTVXL/IR_DHT/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/School_Work/20231/KTVXL/IR_DHT/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/School_Work/20231/KTVXL/IR_DHT/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/School_Work/20231/KTVXL/IR_DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/School_Work/20231/KTVXL/IR_DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/School_Work/20231/KTVXL/IR_DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/School_Work/20231/KTVXL/IR_DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/School_Work/20231/KTVXL/IR_DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/School_Work/20231/KTVXL/IR_DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/School_Work/20231/KTVXL/IR_DHT/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
